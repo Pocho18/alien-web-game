@@ -1,4 +1,4 @@
-# Calories Calc
+# Alien Web Game
 
 **Alien Web Game** is a browser-based action game where players control a spaceship to defeat alien enemies. The game challenges players with increasing difficulty as they progress.
 
